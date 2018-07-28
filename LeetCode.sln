@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组旋转", "数组旋�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "只出现一次的数字", "只出现一次的数字\只出现一次的数字.csproj", "{E8877DC4-7F7F-4D47-B4D7-37136CD297EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8877DC4-7F7F-4D47-B4D7-37136CD297EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8877DC4-7F7F-4D47-B4D7-37136CD297EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8877DC4-7F7F-4D47-B4D7-37136CD297EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8877DC4-7F7F-4D47-B4D7-37136CD297EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
