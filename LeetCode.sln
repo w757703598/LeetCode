@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组", "数组\数组.csproj", "{256A7E80-C1E4-4042-8EAB-BDD180374E92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "数组", "数组", "{1BF63BAA-1AEA-4ACF-AE82-6DFBF2DF9721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组旋转", "数组旋转\数组旋转.csproj", "{4CE1C699-3103-408E-BEE1-4FF11DF33C6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256A7E80-C1E4-4042-8EAB-BDD180374E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256A7E80-C1E4-4042-8EAB-BDD180374E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256A7E80-C1E4-4042-8EAB-BDD180374E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256A7E80-C1E4-4042-8EAB-BDD180374E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE1C699-3103-408E-BEE1-4FF11DF33C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE1C699-3103-408E-BEE1-4FF11DF33C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE1C699-3103-408E-BEE1-4FF11DF33C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE1C699-3103-408E-BEE1-4FF11DF33C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{256A7E80-C1E4-4042-8EAB-BDD180374E92} = {1BF63BAA-1AEA-4ACF-AE82-6DFBF2DF9721}
+		{4CE1C699-3103-408E-BEE1-4FF11DF33C6D} = {1BF63BAA-1AEA-4ACF-AE82-6DFBF2DF9721}
+		{E0DBA792-DEBE-4062-AD8F-5E4CD4B876A1} = {1BF63BAA-1AEA-4ACF-AE82-6DFBF2DF9721}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A543B98-8A08-4E58-AD4C-D80E190C4F38}
+	EndGlobalSection
+EndGlobal
